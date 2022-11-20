@@ -1,3 +1,9 @@
+# ========================================================================
+#                     Ghost v1.0 github.com/AdvancedBan
+#                            Made by AdvancedBan
+#                              @0xAdvancedBan
+# ========================================================================
+
 import os
 import requests as r
 import random,threading
